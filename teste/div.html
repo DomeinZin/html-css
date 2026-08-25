@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIV</title>
+    <style>
+        .b1 {
+            background-image: linear-gradient(10deg, #ffffff, #030303);
+            background-attachment: fixed;
+            display: block;
+            width: 200px;
+            height: 200px;
+            text-align: center;
+            color: yellow;
+            border-radius:  10px;
+            border: 4px solid black;
+            margin: 1px;
+        }
+
+        .b2 {
+            background-image: linear-gradient(180deg, #ffffff, #000000);
+            background-attachment: fixed;
+            display: block;
+            width: 200px;
+            height: 200px;
+            text-align: center;
+            color: yellow;
+            border-radius: 10px;
+            border: 4px solid black;
+            margin: 1px;
+        }
+
+        .b1:hover {
+            color: rgb(255, 255, 255);     
+            background-image: linear-gradient(#000000);       
+        }
+
+        .b1:active {
+            color: #000000;
+            background-image: linear-gradient(white)
+        }
+
+        .b2:hover {
+            color: rgb(0, 0, 0);     
+            background-image: linear-gradient(white);       
+        }
+
+        .b2:active {
+            color: #ffffff;
+            background-image: linear-gradient(black)
+        }
+
+    </style>
+</head>
+<body>
+    <div class="b1">quadrado</div>
+    <div class="b2">triangulo</div>
+</body>
+</html>

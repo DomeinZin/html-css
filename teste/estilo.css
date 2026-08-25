@@ -1,0 +1,31 @@
+
+body {
+    background-color: rgb(91, 188, 188);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular'
+    , 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+     Verdana, sans-serif;
+     
+}
+
+header {
+    text-align: center;
+    font-size: 23px;
+}
+
+div {
+    background-color: darkgreen;
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    height: 130px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 10px;
+
+}
+
+p#res {
+    font-size: 22px;
+    text-align: left;
+    padding: 20px;
+}

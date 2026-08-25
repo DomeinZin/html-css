@@ -1,0 +1,41 @@
+body {
+    background-color: #202124;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    text-align: end;
+}
+article {
+    text-align: center;
+    height: 470px;
+}
+div {
+    width: ;
+}
+h1 {
+    font-size: 85px;
+    margin: 0px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color:#03030331 ;
+}
+footer p {
+    padding: 15px;
+    text-align: center;
+}
+span {
+    background-color: blue;
+    padding: 10px;
+}

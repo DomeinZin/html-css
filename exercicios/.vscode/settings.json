@@ -1,0 +1,11 @@
+{
+    "livePreview.defaultPreviewPath": "/ex021/caixa01.html",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [95, 120],
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "liveServer.settings.port": 5501
+}
